@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<SmartPhoneCatalog>
+    <phone id="samsung">
+        <name>Galaxy s7</name>
+        <price>799.99</price>
+        <image>samsung.jpg</image>
+        <manufacturer>SamsungP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+        </accessories>
+    </phone>
+    <phone id="iphone">
+        <name>Iphone 7</name>
+        <price>700.79</price>
+        <image>iphone.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+        </accessories>
+    </phone>  
+
+    <phone id="nokia">
+        <name>Nokia</name>
+        <price>100.99</price>
+        <image>nokia.jpg</image>
+        <manufacturer>nokia</manufacturer>
+        <condition>Used</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+			<accessory>ps3_wc</accessory>
+        </accessories>
+    </phone>
+    <phone id="motorolla">
+        <name>Motorolla</name>
+        <price>300.99</price>
+        <image>motorolla.jpg</image>
+        <manufacturer>motorolla</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+			<accessory>ps3_wc</accessory>
+        </accessories>
+    </phone>
+    <phone id="lg">
+        <name>Lg</name>
+        <price>409.99</price>
+        <image>lg.jpg</image>
+        <manufacturer>lg</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </phone>
+</SmartPhoneCatalog>
+
+<TabletCatalog>
+    <tablet id="t1">
+        <name>Microsoft</name>
+        <price>200.99</price>
+        <image>microsoft.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tablet>
+  
+    <tablet id="t2">
+        <name>Ipad</name>
+        <price>600.99</price>
+        <image>ipad.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="t3">
+        <name>Samsung</name>
+        <price>400.00</price>
+        <image>samsungtablet.png</image>
+        <manufacturer>SamsungT</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+  <tablet id="t4">
+        <name>Android</name>
+        <price>200.99</price>
+        <image>android.png</image>
+        <manufacturer>android</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tablet>
+	<tablet id="t5">
+        <name>Lenovo</name>
+        <price>200.99</price>
+        <image>lenovo.png</image>
+        <manufacturer>lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tablet>
+</TabletCatalog>
+<LaptopCatalog>
+<laptop id="mac">
+        <name>Macbook Pro</name>
+        <price>1000</price>
+        <image>mac.jpg</image>
+        <manufacturer>mac</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="asus">
+        <name>Asus</name>
+        <price>600.70</price>
+        <image>asus.jpg</image>
+        <manufacturer>asus</manufacturer>
+        <condition>Used</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="acer">
+        <name>Acer</name>
+        <price>900.99</price>
+        <image>acer.jpg</image>
+        <manufacturer>acer</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="hp">
+        <name>HP</name>
+        <price>900.99</price>
+        <image>hp.png</image>
+        <manufacturer>hp</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="sony">
+        <name>Sony</name>
+        <price>200.00</price>
+        <image>sony.png</image>
+        <manufacturer>sony</manufacturer>
+        <condition>Used</condition>
+        <discount>15.0</discount>
+</laptop>
+</LaptopCatalog>
+
+
+<TVCatalog>
+<tv id="led">
+        <name>Led TV</name>
+        <price>1000.00</price>
+        <image>led.jpg</image>
+        <manufacturer>led</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="smart">
+        <name>Smart tv</name>
+        <price>600.70</price>
+        <image>smart.jpg</image>
+        <manufacturer>smart</manufacturer>
+        <condition>Used</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="ultra">
+        <name>4K Ultra HD TVs</name>
+        <price>900.99</price>
+        <image>ultra.jpg</image>
+        <manufacturer>ultra</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="outdoor">
+        <name>Outdoor</name>
+        <price>900.99</price>
+        <image>outdoor.jpg</image>
+        <manufacturer>outdoor</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="curved">
+        <name>Curved</name>
+        <price>900.99</price>
+        <image>curved.jpg</image>
+        <manufacturer>curved</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+
+</TVCatalog>
+
+<AccessoryCatalog>
+
+    <accessory id="headphones">
+        <name>Headphones</name>
+        <price>30.99</price>
+        <image>headphones.jpg</image>
+        <manufacturer>nokia</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+     </accessory>
+
+    <accessory id="phone">
+        <name>phone base</name>
+        <price>19.99</price>
+        <image>accesor1.jpg</image>
+        <manufacturer>lg</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+     </accessory>
+
+</AccessoryCatalog>
+
+</ProductCatalog>
